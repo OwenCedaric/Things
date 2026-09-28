@@ -1,4 +1,4 @@
-# Purchases
+# Things
 
 A minimalist, editorial-style digital garden for recording shopping experiences and analyzing consumerism traps.
 
