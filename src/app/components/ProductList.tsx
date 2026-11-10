@@ -123,8 +123,9 @@ function ProductModal({
             alt={product.title}
             style={{
               width: '100%',
-              height: '160px',
-              objectFit: 'cover',
+              height: 'auto',
+              maxHeight: '400px',
+              objectFit: 'contain',
               borderRadius: '6px',
               marginBottom: '16px',
               display: 'block',
